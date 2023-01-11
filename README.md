@@ -21,3 +21,5 @@ uuid
 npm install
 npm run dev
 
+# credit
+learned it from tomDoseTech on youtube
